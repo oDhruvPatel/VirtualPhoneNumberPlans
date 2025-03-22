@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Inter:wght@300;400;500&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+
+
+/* For Firefox */
+body {
+  scrollbar-width: thin;  /* Thinner scrollbar */
+  scrollbar-color: #1a1a1a #0e0e0e;  /* Thumb and track color for Firefox */
+}
+
+.poppins{
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
